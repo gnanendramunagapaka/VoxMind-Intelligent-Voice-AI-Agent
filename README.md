@@ -458,7 +458,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📞 Support & Contact
 
-- 📧 **Email:** [Your Email]
+- 📧 **Email:** [gnanendramunagapaka@gmail.com]
 - 🐛 **Issues:** [GitHub Issues](https://github.com/gnanendramunagapaka/VoxMind-Intelligent-Voice-AI-Agent/issues)
 - 💬 **Discussions:** [GitHub Discussions](https://github.com/gnanendramunagapaka/VoxMind-Intelligent-Voice-AI-Agent/discussions)
 
